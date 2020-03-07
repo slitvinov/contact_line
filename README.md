@@ -14,7 +14,7 @@ angle 30 degree.
 
     ./grid -r 400 -p 30 > out.vtk
 
-# Images
+# Results
 
 R = 400, phi = 30
 <p align="center"><img src="img/lines.png"/></p>
