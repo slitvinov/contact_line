@@ -1,0 +1,80 @@
+lpl(e):=1/r*diff(r*diff(e, r), r) + 1/r^2*diff(e, t, 2);
+bi(e):=lpl(lpl(e));
+grad(e):=[diff(e, r), diff(e, t)/r];
+div(vr, vt):=1/r*diff(r*vr, r) + 1/r*diff(vt, t);
+curl(e):=[1/r*diff(e, t), -diff(e, r)];
+vlpl(vr, vt):= [
+  lpl(vr) - vr/r^2 - 2/r^2*diff(vt, t),
+  lpl(vt) - vt/r^2 + 2/r^2*diff(vr, t)];
+
+p: r*(a*sin(t) + b*cos(t) + c*t*sin(t) + d*t*cos(t));
+pr: diff(p, r);
+pt: diff(p, t);
+ptt: diff(p, t, 2);
+
+a(e):=subst([a =  aA, b = bA, c = cA, d = dA, m = mA], e);
+b(e):=subst([a =  aB, b = bB, c = cB, d = dB, m = mB], e);
+
+mA: R;
+mB: 1;
+U: 1;
+%b1: b(pr), t = 0;
+%b2: b(pr), t = h;
+%b3: a(pr), t = h;
+%b4: a(pr), t = %pi;
+%b5: a(pt)/r - b(pt)/r, t = h;
+%b6: a(m*ptt)/r - b(m*ptt)/r, t = h;
+%b7: U + 1/r*b(pt), t = 0;
+%b8: -U + 1/r*a(pt), t = %pi;
+
+%q: [%b1, %b2, %b3, %b4, %b5, %b6, %b7, %b8];
+%v: flatten([a([a, b, c, d]), b([a, b, c, d])]);
+%s: linsolve(%q, %v), backsubst = false;
+
+aA + U + %pi * cA + dA, %s, infeval;
+aB + dB + U, %s, infeval;
+bB, %s;
+
+vrb: -b(pt)/r;
+vra: -a(pt)/r;
+
+vta: a(pr);
+vtb: b(pr);
+
+[aA, bA, cA, dA], infeval, t = h, h = 30/180*%pi, R = 100, numer, %s;
+[aB, bB, cB, dB], infeval, t = h, h = 30/180*%pi, R = 100, numer, %s;
+
+[cA, cB, dA, dB, vra], infeval, t = h, h = 30/180*%pi, R = 100, numer, %s;
+[cA, cB, dA, dB, vra], infeval, t = h, h = 30/180*%pi, R = 4.5989, numer, %s;
+[cA, cB, dA, dB, vra], infeval, t = h, h = 30/180*%pi, R = 1, numer, %s;
+[cA, cB, dA, dB, vta], infeval, t = h, h = 30/180*%pi, R = 0.01, numer, %s;
+[cA, cB, dA, dB, vta], infeval, t = h, h = 5/180*%pi, R = 1000, numer, %s;
+[cA, cB, dA, dB, vta], infeval, t = h, h = 5/180*%pi, R = 34.136, numer, %s;
+
+''(buildq([n:  gensym(), x: gensym()],
+powp(x, n, e):=block([inflag: true],
+  if not atom(e) and op(e) = "^" and second(e) # -1
+  then (x :: first(e), n :: second(e), true))));
+''(buildq([n:  gensym(), x: gensym()],
+(matchdeclare(pp, powp('x, 'n)),
+defrule(r_pow, pp,
+  if is(n = 2) then sq(x)
+  else if is(n = 3) then cube(x)
+  else if is(n = -2) then 1/sq(x)
+  else if is(n < 0) then 1/pow(x, -n)
+  else pow(x, n)),
+defrule(r_pi, %pi, pi),
+defrule(r_cos, cos(h), C),
+defrule(r_sin, sin(h), S))));
+
+%s: factor(trigsimp(%s));
+for e in %s do printf(true, "~a;~%", apply2(e, r_pow, r_pi, r_cos, r_sin, r_pow));
+
+printf(true, "~a;~%", 'vr = apply2(vra, r_pow, r_pi, r_cos, r_sin, r_pow));
+printf(true, "~a;~%", 'vt = apply2(vta, r_pow, r_pi, r_cos, r_sin, r_pow));
+printf(true, "~a;~%", 'psi = apply2(b(p), r_pow, r_pi, r_cos, r_sin, r_pow));
+
+[vr, vt]: -curl(p), trigsimp;
+gpre: m*vlpl(vr, vt), trigsimp, factor;
+pre: -2*m/r*(c*sin(t) + d*cos(t)) $
+

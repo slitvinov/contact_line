@@ -1,0 +1,4545 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdftex 2020.2.11)  7 MAR 2020 17:00
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**/u/hydro/poc/08_contact_line/huh.pdf
+(/u/hydro/poc/08_contact_line/huh.pdf
+Overfull \hbox (123.18872pt too wide) in paragraph at lines 3--57
+\tenrm << /Size 625 /Info 591 0 R /Root 596 0 R /Prev 1162881 /ID[<4662448d1697
+55f722b9710e465d52dd><4662448d169755f722b9710e465d52dd>]|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm <
+.\tenrm <
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm /
+.\tenrm S
+.etc.
+
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no „ in font cmr10!
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no Ç in font cmr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.78 H‰„’iL^^SA^^TÇ_
+                    Û•^^P^^S#K”0ˆ^^H^^U^^O*¢¥¥Ôû*à^^A
+? 
+! Interruption.
+<to be read again> 
+                   _
+l.78 H‰„’iL^^SA^^TÇ_
+                    Û•^^P^^S#K”0ˆ^^H^^U^^O*¢¥¥Ôû*à^^A
+? q
+OK, entering \batchmode...
+! You can't use `macro parameter character #' in math mode.
+l.78 H‰„’iL^^SA^^TÇ_Û•^^P^^S#
+                             K”0ˆ^^H^^U^^O*¢¥¥Ôû*à^^A
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Double superscript.
+l.80 ^(^
+        ˆ^^B
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+! Extra }, or forgotten $.
+l.81 Š·xâ}
+          ¡~Ñˆ_%ñ³ßŒÑÄ^^XßN^^Wã'É{ï7ïıçÍÎd^^A ^^L€i€^^P€ò·*ÿ^^YaĞ^^OBĞx^^...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.83 î·ƒŞbS@Ÿ¢^^VÓQmSşÿ®Ø®^^L
+                             Ø¸w^^H^^Dí
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no Û in font cmr7!
+Missing character: There is no • in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no ˆ in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no û in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no İ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no » in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no « in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no ˆ in font cmr7!
+Missing character: There is no Š in font cmr10!
+Missing character: There is no · in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no ˆ in font cmr10!
+Missing character: There is no Ç in font cmr7!
+Missing character: There is no ê in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no ı in font cmr10!
+Missing character: There is no ¹ in font cmr10!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no Õ in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no Î in font cmr10!
+Missing character: There is no › in font cmr10!
+Missing character: There is no İ in font cmr10!
+Missing character: There is no ¾ in font cmr10!
+Missing character: There is no ÷ in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no î in font cmr10!
+Missing character: There is no · in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no Ş in font cmr10!
+Missing character: There is no Ÿ in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+Missing character: There is no Ó in font cmr10!
+Missing character: There is no ş in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no ¸ in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ­ in font cmr10!
+Missing character: There is no « in font cmr10!
+Missing character: There is no À in font cmr10!
+Missing character: There is no š in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no ‹ in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no Ÿ in font cmr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.84 ...^^^C^^^tL<€!^^Q­^^Z-^^Cs`(A«ÀšŒÑ‹V^^OúŸ_
+                                                  `^^PÍÈè%œjtáäh–§£^^TÌ¸PãB
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no Í in font cmr10!
+Missing character: There is no È in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no Ì in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no ó in font cmr10!
+Missing character: There is no Õ in font cmr10!
+! Too many }'s.
+l.87 8}
+       Ôà×êA¯j¼È~(FE1F7j8MÁk^íí§+/š^^D"z?Í‰¸§^^H
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+Missing character: There is no Ô in font cmr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   
+l.87 8}Ô
+         à×êA¯j¼È~(FE1F7j8MÁk^íí§+/š^^D"z?Í‰¸§^^H
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.88 µŞ>Ìøh^^G^^O^^R§}
+                      ŸL¿L¤Ñ‡^^U^^AÙC5^^^Ôºi_zõî2½^^CGOí»^^]ÿ^^WÉ4ßÇê›^^D4ê...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Text line contains an invalid character.
+l.88 ..._zõî2½^^CGOí»^^]ÿ^^WÉ4ßÇê›^^D4ê{5Iã V†^^?
+                                                  ^^L½	Øò^^Z^^D–®ìĞ_
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.88 ...õî2½^^CGOí»^^]ÿ^^WÉ4ßÇê›^^D4ê{5Iã V†^^?^^L
+                                                  ½	Øò^^Z^^D–®ìĞ_
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+<to be read again> 
+                   \par 
+l.88 ...õî2½^^CGOí»^^]ÿ^^WÉ4ßÇê›^^D4ê{5Iã V†^^?^^L
+                                                  ½	Øò^^Z^^D–®ìĞ_
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no à in font cmr7!
+Missing character: There is no × in font cmr10!
+Missing character: There is no ê in font cmr10!
+Missing character: There is no ¯ in font cmr10!
+Missing character: There is no ¼ in font cmr10!
+Missing character: There is no È in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no í in font cmr7!
+Missing character: There is no í in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no š in font cmr10!
+Missing character: There is no Í in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no ¸ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no Ş in font cmr10!
+Missing character: There is no Ì in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no Ÿ in font cmr10!
+Missing character: There is no ¿ in font cmr10!
+Missing character: There is no ¤ in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no ‡ in font cmr10!
+Missing character: There is no Ù in font cmr7!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no  in font cmr7!
+Missing character: There is no õ in font cmr10!
+Missing character: There is no î in font cmr10!
+Missing character: There is no ½ in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no » in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no ß in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no ê in font cmr10!
+Missing character: There is no › in font cmr10!
+Missing character: There is no ê in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no ½ in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no Ğ in font cmr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.88 ...^^WÉ4ßÇê›^^D4ê{5Iã V†^^?^^L½	Øò^^Z^^D–®ìĞ_
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.89 ”3íŒB0 ×f}
+                ªj7ğ^^_¿^^N^^X˜Ú“ÖÕSÚ^^[ñ£ª^^Rp^^?¾úC Y^^?0^^@^^Tsì&
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Text line contains an invalid character.
+l.89 ...ŒB0 ×f}ªj7ğ^^_¿^^N^^X˜Ú“ÖÕSÚ^^[ñ£ª^^Rp^^?
+                                                  ¾úC Y^^?0^^@^^Tsì&
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.89 ...j7ğ^^_¿^^N^^X˜Ú“ÖÕSÚ^^[ñ£ª^^Rp^^?¾úC Y^^?
+                                                  0^^@^^Tsì&
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Misplaced alignment tab character &.
+l.89 ...^X˜Ú“ÖÕSÚ^^[ñ£ª^^Rp^^?¾úC Y^^?0^^@^^Tsì&
+                                                  
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Text line contains an invalid character.
+l.141 H‰l•]Oë8^^P†^^?
+                     AÿCt®‚Ô^^Z^^?^^?h¯Îö€Ø^^U‡({ƒö"4†z•&l^^R@ı÷;=i{X!U(^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.141 H‰l•]Oë8^^P†^^?AÿCt®‚Ô^^Z^^?
+                                  ^^?h¯Îö€Ø^^U‡({ƒö"4†z•&l^^R@ı÷;=i{X!U(^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.141 H‰l•]Oë8^^P†^^?AÿCt®‚Ô^^Z^^?^^?
+                                     h¯Îö€Ø^^U‡({ƒö"4†z•&l^^R@ı÷;=i{X!U(^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Misplaced alignment tab character &.
+l.141 ...†^^?AÿCt®‚Ô^^Z^^?^^?h¯Îö€Ø^^U‡({ƒö"4†z•&
+                                                  l^^R@ı÷;=i{X!U(^^^Ï¼ãyüú÷...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Text line contains an invalid character.
+l.141 ...4†z•&l^^R@ı÷;=i{X!U(^^^Ï¼ãyüú÷Í‚^^Uñ¯^^?
+                                                  …^^?B±¸¼÷M5†^^O¿îš®^^O{?öa...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.141 ...&l^^R@ı÷;=i{X!U(^^^Ï¼ãyüú÷Í‚^^Uñ¯^^?…^^?
+                                                  B±¸¼÷M5†^^O¿îš®^^O{?öa[ôaq...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.141 ...^@Axa-^^Q¼P^^R¦‹Í~QŞ^^\ê¾«^^Omµ‡T^^W›^^?
+                                                  ^^V”Pf™‰‰^^V†(ËMLX/ÊŸ]í›^^T2-
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! You can't use `macro parameter character #' in math mode.
+l.142 ...¹?üŞ·cq±^^RB^^R7å[q«‰(«ââïÍŸ‹^^UãDiÎŠ^^U#
+                                                  B6>tM¨‹çÊË^^\^^V%pks^^Q...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Text line contains an invalid character.
+l.144 tß^^?
+           †áxjàè,5^^@Ş+
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.145 ^^RŞ=ûÃÉ=q–á{bÑ.ÊçÃ™È™‰§ò¥é>'/^^B^^?
+                                           ƒéÇwg Q¶0¹ïÇê^^ZÚLfîf^^_‚İÕx–ÚR*æµù
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! You can't use `macro parameter character #' in math mode.
+l.146 #
+       TRåæÃå^^ZÜúôpCn–^^PÉç‹Õ$^^P®1ã¾û˜¤æ”Ê	äWKŒ^^Yâë^^]šÃ/…ÿ^^S`^^@^^[“^^D¯
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+l.146 #TRåæÃå^^ZÜúôpCn–^^PÉç‹Õ$
+                                ^^P®1ã¾û˜¤æ”Ê	äWKŒ^^Yâë^^]šÃ/…ÿ^^S`^^@^^[“^^D¯
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+l.146 #TRåæÃå^^ZÜúôpCn–^^PÉç‹Õ$
+                                ^^P®1ã¾û˜¤æ”Ê	äWKŒ^^Yâë^^]šÃ/…ÿ^^S`^^@^^[“^^D¯
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+l.146 #TRåæÃå^^ZÜúôpCn–^^PÉç‹Õ$
+                                ^^P®1ã¾û˜¤æ”Ê	äWKŒ^^Yâë^^]šÃ/…ÿ^^S`^^@^^[“^^D¯
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+l.146 #TRåæÃå^^ZÜúôpCn–^^PÉç‹Õ$
+                                ^^P®1ã¾û˜¤æ”Ê	äWKŒ^^Yâë^^]šÃ/…ÿ^^S`^^@^^[“^^D¯
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no ” in font cmr7!
+Missing character: There is no  in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no × in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no ğ in font cmr10!
+Missing character: There is no ¿ in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no Ú in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no Ö in font cmr10!
+Missing character: There is no Õ in font cmr10!
+Missing character: There is no Ú in font cmr10!
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no ¾ in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no • in font cmr10!
+Missing character: There is no ë in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no ¯ in font cmr10!
+Missing character: There is no Î in font cmr10!
+Missing character: There is no ö in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no ‡ in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no ö in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no • in font cmr10!
+Missing character: There is no ı in font cmr10!
+Missing character: There is no ÷ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no Ï in font cmr10!
+Missing character: There is no ¼ in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ÷ in font cmr10!
+Missing character: There is no Í in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no ¯ in font cmr10!
+Missing character: There is no … in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no ¸ in font cmr10!
+Missing character: There is no ¼ in font cmr10!
+Missing character: There is no ÷ in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no ¿ in font cmr10!
+Missing character: There is no î in font cmr10!
+Missing character: There is no š in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no ö in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ó in font cmr10!
+Missing character: There is no Ğ in font cmr10!
+Missing character: There is no ³ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no Ÿ in font cmr10!
+Missing character: There is no … in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no ¦ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no ¼ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ¦ in font cmr10!
+Missing character: There is no ‹ in font cmr10!
+Missing character: There is no Í in font cmr10!
+Missing character: There is no Ş in font cmr10!
+Missing character: There is no ê in font cmr10!
+Missing character: There is no ¾ in font cmr10!
+Missing character: There is no « in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no ‡ in font cmr10!
+Missing character: There is no › in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no Ÿ in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no › in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ² in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no ë in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no ¯ in font cmr10!
+Missing character: There is no ê in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no Ù in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no ı in font cmr10!
+Missing character: There is no ¹ in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no Ş in font cmr10!
+Missing character: There is no · in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no å in font cmr10!
+Missing character: There is no « in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no « in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no Í in font cmr10!
+Missing character: There is no Ÿ in font cmr10!
+Missing character: There is no ‹ in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no Î in font cmr10!
+Missing character: There is no Š in font cmr10!
+Missing character: There is no  in font cmr7!
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no ‹ in font cmr10!
+Missing character: There is no ç in font cmr7!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no ¤ in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no » in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ­ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no Õ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no Š in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no ß in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no Ş in font cmr10!
+Missing character: There is no Ş in font cmr10!
+Missing character: There is no û in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no È in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ¹ in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no ê in font cmr10!
+Missing character: There is no Ú in font cmr10!
+Missing character: There is no î in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no İ in font cmr10!
+Missing character: There is no Õ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Ú in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no å in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no å in font cmr10!
+Missing character: There is no Ü in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no ‹ in font cmr10!
+Missing character: There is no Õ in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no ¾ in font cmr10!
+Missing character: There is no û in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no ¤ in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no ä in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no ë in font cmr10!
+Missing character: There is no š in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no … in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no ¯ in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no Ú in font cmr10!
+Missing character: There is no ı in font cmr10!
+Missing character: There is no ş in font cmr10!
+Missing character: There is no  in font cmr10!
+! You can't use `macro parameter character #' in horizontal mode.
+l.155 H‰|UÉ’Ú0^^Pı^^Bş#
+                        ©^^ZTÚ—c®9s›ÊÁØ^^B”xlb‰aøû^^HPËöÈ^^E7J]İ¯ßÒ^¯ãoÅ’œ¯...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no © in font cmr10!
+Missing character: There is no Ú in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no › in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no û in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no ö in font cmr10!
+Missing character: There is no È in font cmr10!
+Missing character: There is no İ in font cmr10!
+Missing character: There is no ¯ in font cmr10!
+Missing character: There is no ß in font cmr10!
+Missing character: There is no Ò in font cmr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   ^
+l.155 ...ZTÚ—c®9s›ÊÁØ^^B”xlb‰aøû^^HPËöÈ^^E7J]İ¯ßÒ^
+                                                  ¯ãoÅ’œ¯ñz×¬6ı§^^]Ö?v^^?Vñ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Text line contains an invalid character.
+l.155 ...^HPËöÈ^^E7J]İ¯ßÒ^¯ãoÅ’œ¯ñz×¬6ı§^^]Ö?v^^?
+                                                  Vño½^QD±^^Qé­z> Ì$£gŒ^^T“...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ¯ in font cmr7!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no ¯ in font cmr10!
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no × in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ı in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no Ö in font cmr10!
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no ½ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no ­ in font cmr10!
+Missing character: There is no Ì in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no ğ in font cmr10!
+Missing character: There is no « in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no … in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no × in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no ¤ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no Ï in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no ˆ in font cmr10!
+! Undefined control sequence.
+l.155 ...@^^U”0ù¨ Hq¡S…ï[×@	QØ¤^^Y\S–JœÏ-´æiˆ^^Q\¥
+                                                  ÷¾±­ÍM8^^VÏ&^^L^^YŒaÎÕ…SÆ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ÷ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ¾ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no ­ in font cmr10!
+Missing character: There is no Í in font cmr10!
+Missing character: There is no Ï in font cmr10!
+! Misplaced alignment tab character &.
+l.155 ...…ï[×@	QØ¤^^Y\S–JœÏ-´æiˆ^^Q\¥÷¾±­ÍM8^^VÏ&
+                                                  ^^L^^YŒaÎÕ…SÆª¹€U˜„Šp²y^^N...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (184.98174pt too wide) in paragraph at lines 88--155
+[] \tenrm ^^Z^^D$[]3\teni B\tenrm 0\teni fj\tenrm 7 \tensy _ 1   \teni S \tensy
+ ^^E  \ \teni pCY[]\tensy 8\teni sendstreamendobj\tenrm 6240\teni obj\tenrm 678
+\teni endobj\tenrm 5980\teni obj << =Type=Page=MediaBox\tenrm [00461706]\teni =
+Parent\tenrm 5920\teni R=Resources <<|
+
+\hbox(8.14003+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm ^^Z
+.\tenrm ^^D
+.\mathon
+.etc.
+
+
+Overfull \hbox (7.31276pt too wide) in paragraph at lines 88--155
+\teni =Font << =F\tenrm 56150\teni R=F\tenrm 36100\teni R=F\tenrm 06000\teni R=
+F\tenrm 25990\teni R=F\tenrm 16010\teni R=F\tenrm 46160\teni R >> =XObject << =
+Im\tenrm 16220\teni R >>|
+
+\hbox(7.5+2.5)x469.75499
+.\teni =
+.\teni F
+.\kern1.3889
+.\teni o
+.\teni n
+.etc.
+
+
+Overfull \hbox (183.03282pt too wide) in paragraph at lines 88--155
+\teni =ProcSet\tenrm [\teni =PDF=Text=ImageB\tenrm ] \teni >> =Contents\tenrm [
+6030\teni R\tenrm 6050\teni R\tenrm 6070\teni R\tenrm 6090\teni R\tenrm 6120\te
+ni R\tenrm 6140\teni R\tenrm 6180\teni R\tenrm 6200\teni R\tenrm ]\teni =Thumb\
+tenrm 5540\teni R=CropBox\tenrm [00461706]\teni =Rotate\tenrm 0 \teni >>|
+
+\hbox(7.5+2.5)x469.75499
+.\teni =
+.\teni P
+.\kern1.3889
+.\teni r
+.\kern0.27779
+.etc.
+
+
+Overfull \hbox (132.47137pt too wide) in paragraph at lines 88--155
+\teni endobj\tenrm 5990\teni obj << =Type=Font=Subtype=TrueType=Name=F\tenrm 2\
+teni =BaseFont=TimesNewRoman; Italic=Encoding=WinAnsiEncoding >>|
+
+\hbox(7.5+2.5)x469.75499
+.\teni e
+.\teni n
+.\teni d
+.\teni o
+.\teni b
+.etc.
+
+
+Overfull \hbox (69.80853pt too wide) in paragraph at lines 88--155
+\teni endobj\tenrm 6000\teni obj << =Type=Font=Subtype=TrueType=Name=F\tenrm 0\
+teni =BaseFont=Arial; Bold=Encoding=WinAnsiEncoding >>|
+
+\hbox(7.5+2.5)x469.75499
+.\teni e
+.\teni n
+.\teni d
+.\teni o
+.\teni b
+.etc.
+
+
+Overfull \hbox (102.99615pt too wide) in paragraph at lines 88--155
+\teni endobj\tenrm 6010\teni obj << =Type=Font=Subtype=TrueType=Name=F\tenrm 1\
+teni =BaseFont=TimesNewRoman=Encoding=WinAnsiEncoding >>|
+
+\hbox(7.5+2.5)x469.75499
+.\teni e
+.\teni n
+.\teni d
+.\teni o
+.\teni b
+.etc.
+
+
+Overfull \hbox (573.1002pt too wide) in paragraph at lines 88--155
+\teni h\tensy 9[][]$\tenrm ^^P1|
+
+\hbox(8.87892+2.5)x469.75499
+.\teni h
+.\tensy 9
+.\hbox(5.25+1.75)x3.62502, shifted -3.62892
+..\sevenrm (
+.\hbox(7.51782+2.5)x1020.13522
+..\tenrm "
+..\tenrm 4
+..\teni z
+..\kern0.4398
+..\teni l
+..etc.
+.\mathoff
+.etc.
+
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no Î in font cmr10!
+Missing character: There is no Õ in font cmr10!
+Missing character: There is no … in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no ¹ in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no „ in font cmr10!
+Missing character: There is no Š in font cmr10!
+Missing character: There is no ² in font cmr10!
+Missing character: There is no å in font cmr10!
+Missing character: There is no • in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no Ğ in font cmr10!
+Missing character: There is no Ö in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ² in font cmr10!
+Missing character: There is no ı in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no À in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no Î in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no È in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no • in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no ë in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no õ in font cmr10!
+Missing character: There is no Ò in font cmr10!
+Missing character: There is no ÷ in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no ë in font cmr10!
+Missing character: There is no » in font cmr10!
+Missing character: There is no · in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no ¤ in font cmr10!
+Missing character: There is no ¦ in font cmr10!
+Missing character: There is no À in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no õ in font cmr10!
+Missing character: There is no ä in font cmr10!
+Missing character: There is no ê in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no • in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ï in font cmr10!
+Missing character: There is no Š in font cmr10!
+Missing character: There is no ÷ in font cmr10!
+Missing character: There is no ¸ in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no Ó in font cmr10!
+Missing character: There is no ¢ in font cmr7!
+Missing character: There is no ¿ in font cmr10!
+Missing character: There is no ¿ in font cmr10!
+Missing character: There is no Ó in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ¹ in font cmr10!
+Missing character: There is no Ÿ in font cmr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   ^^A
+l.155 ...‰AzÓ_¢^^V¿w¿^^^$QEÓ^^F‚jØ0ô¹^^_':1^^PŸ^^A
+                                                  ÿ~dÈ^^X’Ş^^EU^^RÄ´ía[÷w>Ø...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.156 Yªì¬ˆƒêWÆ"ŠšWÆŠ¢³¬tÕFO¹ú­8^^Eüî^^H8^^E>^^L
+                                                Ö{ëv§`ª®¼^^U^^DiÁ^^AÍ§óÛ	!w...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no ÿ in font cmr7!
+Missing character: There is no È in font cmr10!
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no Ş in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no ÷ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no ä in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ˆ in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no ê in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no Š in font cmr10!
+Missing character: There is no š in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no Š in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+Missing character: There is no ³ in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no Õ in font cmr10!
+Missing character: There is no ¹ in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ­ in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no î in font cmr10!
+Missing character: There is no Ö in font cmr10!
+Missing character: There is no ë in font cmr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   
+l.156 ...ƒêWÆ"ŠšWÆŠ¢³¬tÕFO¹ú­8^^Eüî^^H8^^E>^^LÖ{ë
+                                                  v§`ª®¼^^U^^DiÁ^^AÍ§óÛ	!w¡‰...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no § in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no ¼ in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no Í in font cmr7!
+Missing character: There is no § in font cmr10!
+Missing character: There is no ó in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no › in font cmr10!
+Missing character: There is no Ğ in font cmr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.156 ...^^LÖ{ëv§`ª®¼^^U^^DiÁ^^AÍ§óÛ	!w¡‰$ü›Ğ^^W_
+                                                  ì^^Ty^^QÀ|ã¼wçG„7ˆxêLöŞ`^...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no ì in font cmr7!
+Missing character: There is no À in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no ¼ in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no „ in font cmr10!
+Missing character: There is no ˆ in font cmr10!
+Missing character: There is no ê in font cmr10!
+Missing character: There is no ö in font cmr10!
+Missing character: There is no Ş in font cmr10!
+Missing character: There is no È in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ı in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no ı in font cmr10!
+Missing character: There is no ­ in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no „ in font cmr10!
+Missing character: There is no ş in font cmr10!
+Missing character: There is no ˆ in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+Missing character: There is no Í in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no İ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no À in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no ÷ in font cmr10!
+Missing character: There is no Í in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no Š in font cmr10!
+Missing character: There is no ¾ in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no Ï in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no ß in font cmr10!
+Missing character: There is no Ü in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no ê in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no Õ in font cmr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   
+l.158 Ï^^C~º5CßÜºêÃÕ
+                     çM(XâñU*|^^VÏ3Ñ Ê>jò×Ï¢G‰^^FM›şZ:‡"!98Ç_GëCö¡”^^TÜnÆè...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Misplaced alignment tab character &.
+l.158 ... Ê>jò×Ï¢G‰^^FM›şZ:‡"!98Ç_GëCö¡”^^TÜnÆè&
+                                                  rLŒJÕh^^LScUšç^^Q>8^^Q3[L...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.158 ...^^FM›şZ:‡"!98Ç_GëCö¡”^^TÜnÆè&rLŒJÕh^^L
+                                                  ScUšç^^Q>8^^Q3[LĞ†û-Ï@8^^A...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no ç in font cmr7!
+Missing character: There is no â in font cmr10!
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no Ï in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no × in font cmr10!
+Missing character: There is no Ï in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no › in font cmr10!
+Missing character: There is no ş in font cmr10!
+Missing character: There is no ‡ in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no  in font cmr7!
+Missing character: There is no ë in font cmr10!
+Missing character: There is no ö in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no Ü in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no Õ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no š in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no Ğ in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no û in font cmr10!
+Missing character: There is no Ï in font cmr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   ^^A
+l.158 ...nÆè&rLŒJÕh^^LScUšç^^Q>8^^Q3[LĞ†û-Ï@8^^A
+                                                  ´Ø€+>ªÛ^^Rñì—äš^^\øM±ç{...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Text line contains an invalid character.
+l.158 ...LĞ†û-Ï@8^^A´Ø€+>ªÛ^^Rñì—äš^^\øM±ç{É^^?
+                                                  ^^A^^F^^@^^T^^Y^^B~
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Undefined control sequence.
+l.167 ...Tä ±é1^^W²è•ä™|ş¶d’ÒD“C.¾¸ØÕ]UİªªªºãŒK®\µ
+                                                  ÛWwÈ”–Pñjw¸»^^?ê›C¨«w»^^?'...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Text line contains an invalid character.
+l.167 ...ş¶d’ÒD“C.¾¸ØÕ]UİªªªºãŒK®\µÛWwÈ”–Pñjw¸»^^?
+                                                  ê›C¨«w»^^?'Œ°RÍ˜ZH†BV50n´›...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.167 ...¸ØÕ]UİªªªºãŒK®\µÛWwÈ”–Pñjw¸»^^?ê›C¨«w»^^?
+                                                  'Œ°RÍ˜ZH†BV50n´›¡¾^^[‡÷^^Y...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! You can't use `macro parameter character #' in math mode.
+l.170 Y+^^S#
+            —4É
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Misplaced alignment tab character &.
+l.171 p^^HÃ>vcè®ñ:Ü 3H3©e^^F]ú¸÷Ãà‡B&
+                                     ^^@f˜dŠó^^Lkúx]øJCb*%^^Rf<ù^^LÒê^^Y^^@...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.171 p^^HÃ>vcè®ñ:Ü 3H3©e^^F]ú¸÷Ãà‡B&^^@f˜dŠó^^L
+                                                kúx]øJCb*%^^Rf<ù^^LÒê^^Y^^@...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+<to be read again> 
+                   \par 
+l.171 p^^HÃ>vcè®ñ:Ü 3H3©e^^F]ú¸÷Ãà‡B&^^@f˜dŠó^^L
+                                                kúx]øJCb*%^^Rf<ù^^LÒê^^Y^^@...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no ´ in font cmr7!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no ä in font cmr10!
+Missing character: There is no š in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no › in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no À in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no ÷ in font cmr10!
+Missing character: There is no ä in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no ² in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no • in font cmr10!
+Missing character: There is no ä in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no ş in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no Ò in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no ¾ in font cmr10!
+Missing character: There is no ¸ in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no Õ in font cmr10!
+Missing character: There is no İ in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no È in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no ¸ in font cmr10!
+Missing character: There is no » in font cmr10!
+Missing character: There is no ê in font cmr10!
+Missing character: There is no › in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no « in font cmr10!
+Missing character: There is no » in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no Í in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no › in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no ¾ in font cmr10!
+Missing character: There is no ‡ in font cmr10!
+Missing character: There is no ÷ in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no ‹ in font cmr10!
+Missing character: There is no õ in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no ö in font cmr10!
+Missing character: There is no ‹ in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ‘ in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no Ü in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no õ in font cmr10!
+Missing character: There is no ³ in font cmr10!
+Missing character: There is no î in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no Ü in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ¸ in font cmr10!
+Missing character: There is no ÷ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no ‡ in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no Š in font cmr10!
+Missing character: There is no ó in font cmr10!
+
+Overfull \hbox (670.42845pt too wide) in paragraph at lines 158--171
+[]\tenrm ScU^^Q>8^^Q3[L-@8$[]+ \teni >  \tensy \  ^^T \teni M[]$ |
+
+\hbox(7.51782+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm S
+.\tenrm c
+.\tenrm U
+.\tenrm ^^Q
+.etc.
+
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no Ì in font cmr10!
+Missing character: There is no À in font cmr10!
+Missing character: There is no ö in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no ½ in font cmr10!
+Missing character: There is no ö in font cmr10!
+Missing character: There is no ´ in font cmr10!
+! Misplaced alignment tab character &.
+l.172 YV¬dY”ç^^Nà˜ ÁÌÀ]ö®½>ö´&
+                                cˆİ*^^G”}Yì=¶ñ¥°8…%)Î^^Yó*)Í…^^Rş#œçr,¿ÑNf‘µ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no ˆ in font cmr10!
+Missing character: There is no İ in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no … in font cmr10!
+Missing character: There is no „ in font cmr10!
+Missing character: There is no ó in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no · in font cmr10!
+Missing character: There is no × in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no Ö in font cmr10!
+Missing character: There is no š in font cmr10!
+Missing character: There is no ¦ in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no ì in font cmr10!
+! Extra }, or forgotten $.
+l.175 ^^]ò›´?;Hš^^A×o¥±,ïºğ}
+                            X^^?i€QåW2|ø^^C+Êğ±š8”º	é^^H¦¦¤ò
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Text line contains an invalid character.
+l.175 ^^]ò›´?;Hš^^A×o¥±,ïºğ}X^^?
+                                i€QåW2|ø^^C+Êğ±š8”º	é^^H¦¦¤ò
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Misplaced alignment tab character &.
+l.176 &
+       +0´b•^^@ÉÈ®İyúJÑ^^F—…‡b^^@Êòq!ÏƒO^^\P8lÚsËŒ³b¦pLPmNoé^^W™œ	ClW^^W‡š...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Extra }, or forgotten $.
+l.187 „S­¯ø7¿m3}
+                 E4Õ Í^^U-	ãZÄª'?¶nq~D˜´^^F"Œ‚…^^Hóçô=0^^]Éq,~^^?îW×¦NÊ²+„^...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Text line contains an invalid character.
+l.187 ...-	ãZÄª'?¶nq~D˜´^^F"Œ‚…^^Hóçô=0^^]Éq,~^^?
+                                                  îW×¦NÊ²+„^^Q%TD^^LİéÒŒî4“D...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Misplaced alignment tab character &.
+l.190 &
+       ¸!ä1^^_ïW·Üp’Øõ3^^Bm
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Extra }, or forgotten $.
+l.192 ³©L³^^TÌ^^S}
+                   HPŠ^^FÛj gİ0t­k–.¹(Å£†ĞM^^EåóÙÆîïrãŠäÃE^^SÄ|^^DË£ŠM‘÷à
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Text line contains an invalid character.
+l.193 0·ã³ç]r•–é÷¨^^[«^^Q!(Ú½<„¨W5?»Ú:Dìõùç^^?
+                                                 g3HZï·,ŒÀ³^^TØñzÏ×^^Gsì¤...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Misplaced alignment tab character &.
+l.193 ...×^^Gsì¤şÏF’e3^^G@ˆÓÁûeF^^N"åWf?äÙ+s)[A&
+                                                  Ó¥Ù^^O¢å^^R/^^Uµr÷óg·kMmÌ„...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Extra }, or forgotten $.
+l.193 ...)[A&Ó¥Ù^^O¢å^^R/^^Uµr÷óg·kMmÌ„2,¥k=m–?¯}
+                                                  *e^^X>OT(‘øN~}¿øµô|
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+l.193 ...^R/^^Uµr÷óg·kMmÌ„2,¥k=m–?¯}*e^^X>OT(‘øN~}
+                                                  ¿øµô|
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no ¿ in font cmr10!
+Missing character: There is no İ in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‘ in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no › in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no š in font cmr10!
+Missing character: There is no × in font cmr7!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no ğ in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no å in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no ğ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no š in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no ¦ in font cmr10!
+Missing character: There is no ¦ in font cmr10!
+Missing character: There is no ¤ in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no • in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no È in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no İ in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no … in font cmr10!
+Missing character: There is no ‡ in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no Ï in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no Ú in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no ³ in font cmr10!
+Missing character: There is no ¦ in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ‡ in font cmr10!
+Missing character: There is no š in font cmr10!
+Missing character: There is no Ò in font cmr10!
+Missing character: There is no İ in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no ß in font cmr10!
+Missing character: There is no £ in font cmr7!
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no š in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no ‹ in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no Ú in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ö in font cmr10!
+Missing character: There is no š in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no ş in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ³ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no û in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+Missing character: There is no ß in font cmr10!
+Missing character: There is no ¼ in font cmr10!
+Missing character: There is no ³ in font cmr10!
+Missing character: There is no Õ in font cmr10!
+Missing character: There is no „ in font cmr10!
+Missing character: There is no ­ in font cmr10!
+Missing character: There is no ¯ in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no ¿ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no Õ in font cmr10!
+Missing character: There is no Í in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no … in font cmr10!
+Missing character: There is no ó in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no î in font cmr10!
+Missing character: There is no × in font cmr10!
+Missing character: There is no ¦ in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no ² in font cmr10!
+Missing character: There is no „ in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no Í in font cmr10!
+Missing character: There is no ¦ in font cmr10!
+Missing character: There is no ¤ in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no „ in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no İ in font cmr10!
+Missing character: There is no ‹ in font cmr10!
+Missing character: There is no İ in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no ² in font cmr10!
+Missing character: There is no Í in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ß in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no İ in font cmr10!
+Missing character: There is no ¸ in font cmr10!
+Missing character: There is no ä in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no · in font cmr10!
+Missing character: There is no Ü in font cmr10!
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no õ in font cmr10!
+Missing character: There is no » in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no Ú in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ÷ in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+Missing character: There is no ³ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no ³ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no Ì in font cmr10!
+Missing character: There is no Š in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no İ in font cmr10!
+Missing character: There is no ­ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ¹ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no Ğ in font cmr10!
+Missing character: There is no å in font cmr10!
+Missing character: There is no ó in font cmr10!
+Missing character: There is no Ù in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no î in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no Š in font cmr10!
+Missing character: There is no ä in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no Š in font cmr10!
+Missing character: There is no ‘ in font cmr10!
+Missing character: There is no ÷ in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no · in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no ³ in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no • in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no ÷ in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no « in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no Ú in font cmr10!
+Missing character: There is no ½ in font cmr10!
+Missing character: There is no „ in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no » in font cmr10!
+Missing character: There is no Ú in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no õ in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no · in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no À in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ³ in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no Ï in font cmr10!
+Missing character: There is no × in font cmr7!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ¤ in font cmr10!
+Missing character: There is no ş in font cmr10!
+Missing character: There is no Ï in font cmr10!
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no ˆ in font cmr10!
+Missing character: There is no Ó in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no û in font cmr10!
+Missing character: There is no å in font cmr10!
+Missing character: There is no ä in font cmr10!
+Missing character: There is no Ù in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no Ó in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no Ù in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+Missing character: There is no å in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no ÷ in font cmr10!
+Missing character: There is no ó in font cmr10!
+Missing character: There is no · in font cmr10!
+Missing character: There is no Ì in font cmr10!
+Missing character: There is no „ in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ¯ in font cmr10!
+Missing character: There is no ‘ in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no ¿ in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no Š in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ² in font cmr10!
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no Ò in font cmr10!
+Missing character: There is no Ï in font cmr7!
+Missing character: There is no İ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no Š in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ¼ in font cmr10!
+Missing character: There is no Š in font cmr10!
+! Undefined control sequence.
+l.194 ŠpnU~ù²ñÒ-:PÏİâÆu^^]Šƒ$‰T",|¬n¼Š\¨
+                                          ´ŞsqC^^Njû©ucö^^DãK%ˆĞ^^\cÔ»?!G¥ñ¶...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no Ş in font cmr10!
+Missing character: There is no û in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no ö in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no õ in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no û in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no õ in font cmr10!
+Missing character: There is no Ÿ in font cmr10!
+Missing character: There is no Ù in font cmr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   ^
+l.195 2^^Fõ†aûOáõŸ^^@^^C^^@Ù^
+                             ^^Cò
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Misplaced alignment tab character &.
+l.213 H‰|UËã6^^Pü‚ù^^G‚^^Y &
+                              øh6Éä˜C^^@^^A^^FsÊî8±^^BYrôØÉş}(›İÖ¬ŒÜf rw...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Extra }, or forgotten $.
+l.213 ...‚^^Y &øh6Éä˜C^^@^^A^^FsÊî8±^^BYrôØÉş}
+                                                  (›İÖ¬ŒÜf rwWUw±ªªêøë“^^TÒ^...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+l.218 áÖM	D ¯}
+              âf‰İšv®^^@–¾^^^Û¹­cG¸M^^Wà.M;^^]^^Hà¥*
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Misplaced alignment tab character &.
+<recently read> &
+                 
+l.219 h)”Éÿl^^T˜R?'&
+                    ^^Hà±( ¡¡¦t^^_JY_†vÎP·1½¥1eÕwJÂ
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.221 ^^Pì–İ_q:tMŸòÆ°ÇT,^^@"íx7¼O^^ODØœAì›»y3½&
+                                                ÉãÈÌ,¢Ú©ô:ŞYïÑ^^U^^@^^Bòjg'...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Text line contains an invalid character.
+l.222 ¤íw­”°^^V<^^?
+                   Múg‰u{^^O^^Tn†Â«`÷~<¬´Ù¡`%o¶ä^^BÙ÷¹í—åü<*ı!¸š4å^^\¸^^^B...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Undefined control sequence.
+l.223 ...^^C–^^@[u¾=>s;/3«›¯ÿABßí1Z^^BÙc8ß~Šùã÷\D
+                                                  ^^C^^U	,ïoéçöP›—Ğ*OSÿÑç˜^...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no ä in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no î in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no ş in font cmr10!
+Missing character: There is no › in font cmr10!
+Missing character: There is no İ in font cmr10!
+Missing character: There is no Ö in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no Ü in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no ê in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no ë in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no Ò in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no › in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no ë in font cmr10!
+Missing character: There is no å in font cmr10!
+Missing character: There is no Í in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no ¯ in font cmr10!
+Missing character: There is no Ó in font cmr10!
+Missing character: There is no ½ in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no ‘ in font cmr7!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no ¾ in font cmr10!
+Missing character: There is no „ in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¸ in font cmr10!
+Missing character: There is no « in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no … in font cmr10!
+Missing character: There is no ² in font cmr10!
+Missing character: There is no ö in font cmr10!
+Missing character: There is no ö in font cmr10!
+Missing character: There is no ı in font cmr10!
+Missing character: There is no Ï in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no ğ in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no › in font cmr10!
+Missing character: There is no Ş in font cmr10!
+Missing character: There is no « in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ï in font cmr10!
+Missing character: There is no · in font cmr10!
+Missing character: There is no ­ in font cmr10!
+Missing character: There is no Ò in font cmr10!
+Missing character: There is no î in font cmr10!
+Missing character: There is no · in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no Ö in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no ¯ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no İ in font cmr10!
+Missing character: There is no š in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ¾ in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no ¹ in font cmr10!
+Missing character: There is no ­ in font cmr10!
+Missing character: There is no ¸ in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no ¦ in font cmr10!
+Missing character: There is no † in font cmr7!
+Missing character: There is no Î in font cmr10!
+Missing character: There is no · in font cmr10!
+Missing character: There is no ½ in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no Õ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no Ù in font cmr10!
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no Ó in font cmr10!
+Missing character: There is no ‹ in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no İ in font cmr10!
+Missing character: There is no Ÿ in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no ¼ in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no › in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no » in font cmr10!
+Missing character: There is no ½ in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no È in font cmr10!
+Missing character: There is no Ì in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+Missing character: There is no Ú in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no Ş in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ¦ in font cmr10!
+Missing character: There is no š in font cmr10!
+Missing character: There is no · in font cmr10!
+Missing character: There is no ‹ in font cmr10!
+Missing character: There is no Ù in font cmr10!
+Missing character: There is no Ë in font cmr7!
+Missing character: There is no Õ in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no û in font cmr10!
+Missing character: There is no Ï in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no Ğ in font cmr10!
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no ê in font cmr10!
+Missing character: There is no ¤ in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no ­ in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no « in font cmr10!
+Missing character: There is no ÷ in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no Ù in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no › in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no ã in font cmr7!
+Missing character: There is no å in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no ­ in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no ş in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no « in font cmr10!
+Missing character: There is no ğ in font cmr10!
+Missing character: There is no Ï in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ¾ in font cmr10!
+Missing character: There is no « in font cmr10!
+Missing character: There is no › in font cmr10!
+Missing character: There is no ¯ in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no ß in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no Ù in font cmr10!
+Missing character: There is no ß in font cmr10!
+Missing character: There is no Š in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no ÷ in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no ö in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no › in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ğ in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no ş in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no û in font cmr10!
+Missing character: There is no Í in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no À in font cmr10!
+Missing character: There is no × in font cmr7!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no » in font cmr10!
+Missing character: There is no Ü in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no û in font cmr10!
+Missing character: There is no • in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no Ò in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+Missing character: There is no ‡ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ü in font cmr10!
+! Too many }'s.
+l.232 ...nÜ0^^Pü‚û^^G•g bø~Ô^^FÒ¥; ^^[Z¢}J$ñ¢‡ü}
+                                                  –2IéLŸ^^[^^C^^Z.ggf—UUU§óO...
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+Missing character: There is no – in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no Ÿ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no ó in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no ³ in font cmr10!
+Missing character: There is no ı in font cmr10!
+Missing character: There is no · in font cmr10!
+Missing character: There is no ê in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no û in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ı in font cmr10!
+Missing character: There is no « in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no · in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no ª in font cmr10!
+
+Overfull \hbox (26.61882pt too wide) in paragraph at lines 171--232
+[]\tenrm kx]JCb*YVdY^^N]>c*^^GY=8nyxl.^^Tv -X[*R^^\$\teni t\tenrm "\tensy 1\ten
+i O\tensy ^^@ ^^U \tenrm ?; \teni H[]o; XiQW\tenrm 2\tensy j\teni ^^L \tenrm + 
+8\teni ^^U \tenrm + 0\teni byJ \tensy 2 \teni bq\tenrm !\teni O \tensy ^^T \ten
+i P\tenrm 8\teni lsbpLPmNo \tensy $|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm k
+.\tenrm x
+.\tenrm ]
+.\tenrm J
+.etc.
+
+
+Overfull \hbox (96.83124pt too wide) in paragraph at lines 171--232
+\teni ClW \tensy $ \teni s \tensy 
+ j[]\teni N < ^^L\tensy 8\teni nN \tensy 2  
+^^T \tenrm 8 \tensy _ :   \teni Jh[]endstreamendobj\tenrm 6080\teni obj\tenrm 7
+81\teni endobj\tenrm 6090\teni obj << =Filter=FlateDecode=Length\tenrm 6080\ten
+i R >>|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\teni C
+.\kern0.71527
+.\teni l
+.\kern0.19678
+.\teni W
+.etc.
+
+
+Overfull \hbox (156.24548pt too wide) in paragraph at lines 171--232
+\teni =Type=Font=Subtype=TrueType=Name=F\tenrm 3\teni =BaseFont=CourierNew=Enco
+ding=WinAnsiEncoding >> endobj\tenrm 6110\teni obj\tenrm 825\teni endobj\tenrm 
+6120\teni obj <<|
+
+\hbox(7.5+2.5)x469.75499
+.\teni =
+.\teni T
+.\kern1.3889
+.\teni y
+.\kern0.35878
+.etc.
+
+
+Overfull \hbox (915.09058pt too wide) in paragraph at lines 171--232
+\teni tMT; \tenrm "\teni x\tenrm 7\teni O@DAy\tenrm 3\teni ;  \tenrm : \teni Y\
+tensy 9\teni jg[]y \tensy   \teni ^^Y\tenrm ]\tensy :\teni Wj\tenrm 6[]\tensy 
+:\teni d\tenrm @\teni v\tenrm " \tensy ^^T \teni  \tensy   \teni w\tensy 
+ \te
+ni < Mgu[]J$\tenrm 2IL^^[^^C^^Z.ggfUUUO?.^^GHuy0"pN^^BI+ |
+
+\hbox(7.51782+2.5)x469.75499
+.\teni t
+.\teni M
+.\kern1.09026
+.\teni T
+.\kern1.3889
+.etc.
+
+! Text line contains an invalid character.
+l.232 ...O?.“³ı·êáòûôı^^G«Huy©0"”pø·©N^^BIª+^^L^^?
+                                                  ^^ZñŠj$d¥(2²º^^L§ó£^^]mkQ<...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no Š in font cmr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.232 ...«Huy©0"”pø·©N^^BIª+^^L^^?^^ZñŠj$d¥(2²º^^L
+                                                  §ó£^^]mkQ<NÒq¬¤¡Ûq”Ñl;o^^...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no ² in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no ó in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no Ò in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ¤ in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+Missing character: There is no ¹ in font cmr10!
+Missing character: There is no Ú in font cmr10!
+Missing character: There is no ı in font cmr10!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no ³ in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no • in font cmr10!
+Missing character: There is no Š in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no õ in font cmr10!
+Missing character: There is no İ in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no À in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no À in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no ß in font cmr10!
+Missing character: There is no Ü in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no Æ in font cmr10!
+! Undefined control sequence.
+l.232 ..."N•Š˜GhÆ6K^^B	Bs!ŒM^^Dõİè"‚À/UÁXDÀàßÜàÆ\F
+                                                  ^^Q¡£^^PJˆtWëİœ^^PÚ(¾!jbâ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no ˆ in font cmr10!
+Missing character: There is no ë in font cmr10!
+Missing character: There is no İ in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no Ú in font cmr10!
+Missing character: There is no ¾ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no Ó in font cmr10!
+Missing character: There is no ú in font cmr10!
+! Undefined control sequence.
+l.233 8ú\I
+          +^^Y¯Ã\$>³sC^^FPš^^PšÉ„h»É5Kÿ/d8}QŒuD^^O½^^?õë¼‹¤hrP0•„¼\×LÜ^^P...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ¯ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ³ in font cmr10!
+Missing character: There is no š in font cmr10!
+Missing character: There is no š in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no „ in font cmr10!
+Missing character: There is no » in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   
+l.233 8ú\I+^^Y¯Ã\$>³sC^^FPš^^PšÉ„h»É5Kÿ/
+                                         d8}QŒuD^^O½^^?õë¼‹¤hrP0•„¼\×LÜ^^P...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.233 8ú\I+^^Y¯Ã\$>³sC^^FPš^^PšÉ„h»É5Kÿ/d8}
+                                             QŒuD^^O½^^?õë¼‹¤hrP0•„¼\×LÜ^^P...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Text line contains an invalid character.
+l.233 ...\$>³sC^^FPš^^PšÉ„h»É5Kÿ/d8}QŒuD^^O½^^?
+                                                  õë¼‹¤hrP0•„¼\×LÜ^^P­â}Û¿^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Undefined control sequence.
+l.233 ...šÉ„h»É5Kÿ/d8}QŒuD^^O½^^?õë¼‹¤hrP0•„¼\×
+                                                  LÜ^^P­â}Û¿^^_ˆ—É^^OEk^^TLS...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Extra }, or forgotten $.
+l.233 ...ÿ/d8}QŒuD^^O½^^?õë¼‹¤hrP0•„¼\×LÜ^^P­â}
+                                                  Û¿^^_ˆ—É^^OEk^^TLSé®åú!aM1...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Misplaced alignment tab character &.
+l.234 Ì¤L¢^^VJaˆ3¤&
+                   ²\ÇÖÖE(k¢‘^^Tà^^?^^E~‘.„3‡|KvÀ²POf"óê
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.234 Ì¤L¢^^VJaˆ3¤&²\Ç
+                      ÖÖE(k¢‘^^Tà^^?^^E~‘.„3‡|KvÀ²POf"óê
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Text line contains an invalid character.
+l.234 Ì¤L¢^^VJaˆ3¤&²\ÇÖÖE(k¢‘^^Tà^^?
+                                    ^^E~‘.„3‡|KvÀ²POf"óê
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Undefined control sequence.
+l.235 ...Ìy›o½mî† k+‘V<õo—;á8Ïãa‹.j^^Z2Âéq6fßï\^^T
+                                                  `#^^WM"3¯Óp)^^Ld °øl Ì†f...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `macro parameter character #' in math mode.
+l.235 ...›o½mî† k+‘V<õo—;á8Ïãa‹.j^^Z2Âéq6fßï\^^T`#
+                                                  ^^WM"3¯Óp)^^Ld °øl Ì†f)M...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.235 ...;á8Ïãa‹.j^^Z2Âéq6fßï\^^T`#^^WM"3¯Óp)^^L
+                                                  d °øl Ì†f)M0òéûâó%i-İ¥íÙ^^...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+<to be read again> 
+                   \par 
+l.235 ...;á8Ïãa‹.j^^Z2Âéq6fßï\^^T`#^^WM"3¯Óp)^^L
+                                                  d °øl Ì†f)M0òéûâó%i-İ¥íÙ^^...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no  in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ½ in font cmr10!
+Missing character: There is no õ in font cmr10!
+Missing character: There is no ë in font cmr10!
+Missing character: There is no ¼ in font cmr10!
+Missing character: There is no ‹ in font cmr10!
+Missing character: There is no ¤ in font cmr10!
+Missing character: There is no • in font cmr10!
+Missing character: There is no „ in font cmr10!
+Missing character: There is no ¼ in font cmr10!
+Missing character: There is no Ü in font cmr10!
+Missing character: There is no ­ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no ¿ in font cmr10!
+Missing character: There is no ˆ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no å in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no · in font cmr10!
+Missing character: There is no Î in font cmr10!
+Missing character: There is no ½ in font cmr10!
+Missing character: There is no ß in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no Õ in font cmr10!
+Missing character: There is no … in font cmr10!
+Missing character: There is no ó in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no × in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no ı in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no Á in font cmr7!
+Missing character: There is no é in font cmr10!
+Missing character: There is no š in font cmr10!
+Missing character: There is no İ in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no ¼ in font cmr10!
+Missing character: There is no ‡ in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no Ó in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no ‹ in font cmr10!
+Missing character: There is no Ì in font cmr10!
+Missing character: There is no ¤ in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+Missing character: There is no ˆ in font cmr10!
+Missing character: There is no ¤ in font cmr10!
+Missing character: There is no ² in font cmr10!
+Missing character: There is no Ö in font cmr10!
+Missing character: There is no Ö in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+Missing character: There is no ‘ in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ‘ in font cmr10!
+Missing character: There is no „ in font cmr10!
+Missing character: There is no ‡ in font cmr10!
+Missing character: There is no À in font cmr10!
+Missing character: There is no ² in font cmr10!
+Missing character: There is no ó in font cmr10!
+Missing character: There is no ê in font cmr10!
+Missing character: There is no Ù in font cmr10!
+Missing character: There is no î in font cmr10!
+Missing character: There is no ¸ in font cmr10!
+Missing character: There is no î in font cmr10!
+Missing character: There is no ² in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no ­ in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no ¯ in font cmr10!
+Missing character: There is no ş in font cmr10!
+Missing character: There is no ½ in font cmr10!
+Missing character: There is no ¸ in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no ¹ in font cmr10!
+Missing character: There is no Ì in font cmr10!
+Missing character: There is no › in font cmr10!
+Missing character: There is no ½ in font cmr10!
+Missing character: There is no î in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no ‘ in font cmr10!
+Missing character: There is no õ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no Ï in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no ‹ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no ß in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ¯ in font cmr10!
+Missing character: There is no Ó in font cmr10!
+
+Overfull \hbox (67.81693pt too wide) in paragraph at lines 232--235
+\tensy !2 _j\tenrm 7 \teni > ^^UH \tensy 
+ \teni =\tenrm ; \teni JB\tenrm 74\te
+ni qB[] \tensy 2 \teni e \tensy 6\tenrm = \teni bvS\tenrm 2 \tensy ^^T \tenrm 3
+\teni NtjGDL \tensy 
+ \teni Ja\tenrm 3\teni E\tenrm (\teni k\tensy 8: \teni :\t
+enrm 3\tensy j\teni KvPOf\tenrm "\teni N[]$ |
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tensy !
+.\tensy 2
+.\penalty 500
+.\glue(\thickmuskip) 2.77771 plus 2.77771
+.\tensy _
+.etc.
+
+Missing character: There is no   in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no Ì in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no û in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no ó in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no ó in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ‘ in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no À in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no ¿ in font cmr10!
+Missing character: There is no ó in font cmr10!
+Missing character: There is no ® in font cmr10!
+! Undefined control sequence.
+l.236 ^^Qç€ïó6¬s9‘^^LaªL^^Q-))*ÀæL^^U^^Z¿Nó®T\f
+                                                `^^DÆj'³^^Ttïâ—ib^^]·Xh]a~ì|...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no ³ in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no · in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ğ in font cmr10!
+Missing character: There is no ½ in font cmr10!
+Missing character: There is no Ö in font cmr10!
+Missing character: There is no Ş in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no Á in font cmr10!
+! Undefined control sequence.
+l.237 Á$ó^^Yç^^NŒ±¡ù¹®^^O£‘\4
+                             ˆ*^^VûèG÷wíúîyêÖ}ÃaBãÔ‚K^^Xº^^C‘?ğX,‡^^U#Œ&Ñ^...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Extra }, or forgotten $.
+l.237 Á$ó^^Yç^^NŒ±¡ù¹®^^O£‘\4ˆ*^^VûèG÷wíúîyêÖ}
+                                               ÃaBãÔ‚K^^Xº^^C‘?ğX,‡^^U#Œ&Ñ^...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! You can't use `macro parameter character #' in math mode.
+l.237 ...^^VûèG÷wíúîyêÖ}ÃaBãÔ‚K^^Xº^^C‘?ğX,‡^^U#
+                                                  Œ&Ñ^^BxÀRá.KO‚Z…p7;A‘ĞO]^^...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Misplaced alignment tab character &.
+l.237 ...^VûèG÷wíúîyêÖ}ÃaBãÔ‚K^^Xº^^C‘?ğX,‡^^U#Œ&
+                                                  Ñ^^BxÀRá.KO‚Z…p7;A‘ĞO]^^_Í...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Text line contains an invalid character.
+l.237 ...&Ñ^^BxÀRá.KO‚Z…p7;A‘ĞO]^^_Í—DÄ'^^R+Á“^^?
+                                                  î^^OOBšr0=7nÇ¢S
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.239 t*^^U^^Tß6ê^^?
+                    ^^A^^F^^@^^Oâ^^Cú
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.266 H‰lVË’Û ^^Pü‚ı^^GÙª˜^^L
+                              o¨^^\S•/ğq/²Œc^^RYÚHx7û÷^^YÉ€q±gZÃLOw#B^^Hy^^B
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no ó in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ¹ in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no ‘ in font cmr10!
+Missing character: There is no ˆ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no û in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no ÷ in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no î in font cmr10!
+Missing character: There is no ê in font cmr10!
+Missing character: There is no Ö in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no ‘ in font cmr10!
+Missing character: There is no ğ in font cmr10!
+Missing character: There is no ‡ in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no À in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no … in font cmr10!
+Missing character: There is no ‘ in font cmr10!
+Missing character: There is no Ğ in font cmr10!
+Missing character: There is no Í in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no î in font cmr10!
+Missing character: There is no š in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+Missing character: There is no È in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no × in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ½ in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ¹ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ³ in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no û in font cmr10!
+Missing character: There is no … in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no Ğ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no ğ in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no × in font cmr10!
+Missing character: There is no ¾ in font cmr10!
+Missing character: There is no ‹ in font cmr10!
+Missing character: There is no ¿ in font cmr10!
+Missing character: There is no ¾ in font cmr10!
+Missing character: There is no ¿ in font cmr7!
+Missing character: There is no ß in font cmr10!
+Missing character: There is no ê in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no ı in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no Ù in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+
+Overfull \hbox (348.83165pt too wide) in paragraph at lines 236--266
+\tenrm 7\teni nSy\tenrm 6\teni siP \tensy ! \teni ue^^UDL < cB \tenrm = \teni B
+T[][][]t \tensy ^^C 98\tenrm 6[]\teni @^^Lendstreamendobj\tenrm 6150\teni obj <
+< =Type=Font=Subtype=TrueType=Name=F\tenrm 5\teni =BaseFont=TimesNewRoman=Encod
+ing=WinAnsiEncoding >>|
+
+\hbox(7.65865+2.5)x469.75499, glue set - 1.0
+.\tenrm 7
+.\teni n
+.\teni S
+.\kern0.57637
+.\teni y
+.etc.
+
+
+Overfull \hbox (132.47137pt too wide) in paragraph at lines 236--266
+\teni endobj\tenrm 6160\teni obj << =Type=Font=Subtype=TrueType=Name=F\tenrm 4\
+teni =BaseFont=TimesNewRoman; Italic=Encoding=WinAnsiEncoding >>|
+
+\hbox(7.5+2.5)x469.75499
+.\teni e
+.\teni n
+.\teni d
+.\teni o
+.\teni b
+.etc.
+
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no • in font cmr10!
+Missing character: There is no ğ in font cmr10!
+Missing character: There is no ² in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no Ú in font cmr10!
+Missing character: There is no û in font cmr10!
+Missing character: There is no ÷ in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no Ã in font cmr10!
+! You can't use `macro parameter character #' in horizontal mode.
+l.266 ...^^Lo¨^^\S•/ğq/²Œc^^RYÚHx7û÷^^YÉ€q±gZÃLOw#
+                                                  B^^Hy^^B
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no Ö in font cmr10!
+Missing character: There is no ² in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no Ó in font cmr10!
+Missing character: There is no  in font cmr10!
+! Text line contains an invalid character.
+l.267 Öh²ïÉÓ9*$0²cT€1d^^?
+                          |úrébè^^Wò¼ÿ½A‘^^[VPm¹"°aºñ˜^^A^^N,Û^^@œrÇd^^B^^\...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ² in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ¼ in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no ½ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ‘ in font cmr10!
+Missing character: There is no ¹ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no î in font cmr10!
+Missing character: There is no • in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no › in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no Ú in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no ˆ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no Ÿ in font cmr10!
+Missing character: There is no † in font cmr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.268 ¥(ãV$ÔtÊçRÚ[KØˆc<Ÿ†k8._
+                              K/BˆÔ‹ÔR´½^^XíxîEK–^^@ñ^^\J^^_Ú
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.271 +©4B§rC^^X}
+                 Ë=§^^Vk'ÈÁÇwïÇÂœ0.ÕÑZæ^^E-Ó^^P…8e´MÄ1œ?_õ÷ZaªE^^[-eKnYáJ^^...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Undefined control sequence.
+l.272 í2Uİ›O^^H^^F\©
+                    t^^[^^@äÑº^^Xg¤È—BÚIÙÊ¦ŸÆ%^^\ıÜ^^]^^FßĞ©©^^F–‘K^^_ü^^XÃ)...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.273 )(â^^L
+            $^^FÒSÕr˜’¢¡Ğ®	Y^^UXB¼vkl,Mş­)ƒ³‹^^G^^_U9^^HYÓjôPå{n^^C^^AÜØ²×...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no ˆ in font cmr10!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no ‹ in font cmr10!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no ½ in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no î in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no Ú in font cmr10!
+Missing character: There is no Ó in font cmr10!
+Missing character: There is no Ş in font cmr10!
+Missing character: There is no ı in font cmr10!
+Missing character: There is no ¾ in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no Ü in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no Ú in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no Ù in font cmr10!
+Missing character: There is no Ï in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no È in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no Õ in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no Ó in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no … in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no õ in font cmr7!
+Missing character: There is no ÷ in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no ¦ in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no İ in font cmr10!
+Missing character: There is no › in font cmr10!
+Missing character: There is no ä in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no ¤ in font cmr10!
+Missing character: There is no È in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ú in font cmr10!
+Missing character: There is no Ù in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no ¦ in font cmr10!
+Missing character: There is no Ÿ in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no â in font cmr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.273 ...‹^^G^^_U9^^HYÓjôPå{n^^C^^AÜØ²×iÆœlŸF^^L
+                                                  *-KVOcf^^W^^_>¡s¥GyV[-¦“...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+<to be read again> 
+                   \par 
+l.273 ...‹^^G^^_U9^^HYÓjôPå{n^^C^^AÜØ²×iÆœlŸF^^L
+                                                  *-KVOcf^^W^^_>¡s¥GyV[-¦“...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no Ò in font cmr10!
+Missing character: There is no Õ in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no Ğ in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no ¼ in font cmr10!
+Missing character: There is no ş in font cmr10!
+Missing character: There is no ­ in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no ³ in font cmr10!
+Missing character: There is no ‹ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no Ó in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no å in font cmr10!
+Missing character: There is no Ü in font cmr7!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no ² in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no × in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no Ÿ in font cmr10!
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Missing character: There is no  in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no ¦ in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no ¼ in font cmr10!
+Missing character: There is no ¿ in font cmr10!
+Missing character: There is no ö in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no › in font cmr10!
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ­ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ç in font cmr10!
+! Text line contains an invalid character.
+l.273 ...[-¦“8©¼¿ö^^_MB<”Á,›>ñÃúwÁøÃâgr­v-XEç^^?
+                                                  ^^A^^F^^@p>ü
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   ^^A
+l.273 ...“8©¼¿ö^^_MB<”Á,›>ñÃúwÁøÃâgr­v-XEç^^?^^A
+                                                  ^^F^^@p>ü
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.282 ...|Üyî^^B4‡.¨ÑKÓ^^C+ÓµZILdÉ†ûõ¥d’²«øfhô–™7#
+                                                  „^^P*VU{t‡¾úeûÊ·^^Gt·ù]^^P...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Misplaced alignment tab character &.
+l.283 Ã^^YZ^^CfSƒ€>ùîë2XICcIà’Å’a²&
+                                     —3ŠÇÑ¤biúÖ÷	 5S^^S^^@°aRE@ïóÔ Ósª)Äç{{œ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.283 ...°aRE@ïóÔ Ósª)Äç{{œ·W2v^^P×Ë»6^^A^^DPµDœ\]
+                                                  ç^^R”¦^^Z”ÉDMÕî|×¸mDAøef¸P...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.283 ...DAøef¸Pfb†(uixÎí„àqbÅE*¶«‡j›y£RÄ~Šª^^Di\¹
+                                                  ·mU^^^ğ‚_^^CM"â>
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.284 ]^^^\Š
+            ¤<^^C-#àyèıÁ½¢^^Rc*i°w]F0^^N:©4ò^^]÷_ê^^\D^^P\/DÒü²ñš^^R¬9á77S†...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `macro parameter character #' in math mode.
+l.284 ]^^^\Š¤<^^C-#
+                   àyèıÁ½¢^^Rc*i°w]F0^^N:©4ò^^]÷_ê^^\D^^P\/DÒü²ñš^^R¬9á77S†...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Text line contains an invalid character.
+l.284 ...²ñš^^R¬9á77S†cî»¡Œ’Ç} Ğ^^TëØD0¡BÄ6D²Ôf^^?
+                                                  Şv~{nmS9;K^^Fp±…^^N¢Ò´yã·®...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.284 ...^Fp±…^^N¢Ò´yã·®^èÎ°^^@m.ï+¿Cwë 3¦A^^T^^?
+                                                  Bw?67—¶^^F™^^V—-Fó^^Wël...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+l.284 ...«ö×B±`^^YÅ^^R^^E£Ş–ıbr>^^VMzÔUë^ñÕ•ğ¶İ.$
+                                                  »^^A\I–2^^C° j.`ëóßÜÅ(
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+l.284 ...«ö×B±`^^YÅ^^R^^E£Ş–ıbr>^^VMzÔUë^ñÕ•ğ¶İ.$
+                                                  »^^A\I–2^^C° j.`ëóßÜÅ(
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+l.284 ...«ö×B±`^^YÅ^^R^^E£Ş–ıbr>^^VMzÔUë^ñÕ•ğ¶İ.$
+                                                  »^^A\I–2^^C° j.`ëóßÜÅ(
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no ü in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no ı in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no Ü in font cmr10!
+Missing character: There is no î in font cmr10!
+Missing character: There is no ‡ in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no Ó in font cmr10!
+Missing character: There is no Ó in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no û in font cmr10!
+Missing character: There is no õ in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no ² in font cmr10!
+Missing character: There is no « in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no „ in font cmr10!
+Missing character: There is no ‡ in font cmr10!
+Missing character: There is no ¾ in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no û in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no · in font cmr10!
+Missing character: There is no · in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no Ì in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no ˆ in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Í in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ­ in font cmr10!
+Missing character: There is no Î in font cmr10!
+Missing character: There is no Ã in font cmr7!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no î in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ë in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no ² in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Š in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no ¤ in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no Ö in font cmr10!
+Missing character: There is no ÷ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no ó in font cmr10!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no Ó in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no · in font cmr10!
+Missing character: There is no × in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no » in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no ¦ in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no É in font cmr10!
+Missing character: There is no Õ in font cmr10!
+Missing character: There is no î in font cmr10!
+Missing character: There is no × in font cmr10!
+Missing character: There is no ¸ in font cmr10!
+Missing character: There is no ø in font cmr10!
+Missing character: There is no ¸ in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no Î in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no „ in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no « in font cmr10!
+Missing character: There is no ‡ in font cmr10!
+Missing character: There is no › in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no Š in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no · in font cmr10!
+Missing character: There is no ğ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no  in font cmr7!
+Missing character: There is no â in font cmr10!
+Missing character: There is no ¤ in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no è in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ı in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no ½ in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ÷ in font cmr10!
+Missing character: There is no ê in font cmr7!
+Missing character: There is no Ò in font cmr10!
+Missing character: There is no ü in font cmr10!
+Missing character: There is no ² in font cmr10!
+Missing character: There is no ñ in font cmr10!
+Missing character: There is no š in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no î in font cmr10!
+Missing character: There is no » in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no Ğ in font cmr10!
+Missing character: There is no ë in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ² in font cmr10!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no Ş in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no … in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+Missing character: There is no Ò in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no · in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no è in font cmr7!
+Missing character: There is no Î in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no ¿ in font cmr10!
+Missing character: There is no ë in font cmr10!
+Missing character: There is no ¦ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no ó in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ë in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no Í in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no õ in font cmr10!
+Missing character: There is no ş in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no « in font cmr10!
+Missing character: There is no ö in font cmr10!
+Missing character: There is no × in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no Ş in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ı in font cmr10!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no ë in font cmr10!
+Missing character: There is no ñ in font cmr7!
+Missing character: There is no Õ in font cmr10!
+Missing character: There is no • in font cmr10!
+Missing character: There is no ğ in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no İ in font cmr10!
+Missing character: There is no » in font cmr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   ^^A
+l.284 ...±`^^YÅ^^R^^E£Ş–ıbr>^^VMzÔUë^ñÕ•ğ¶İ.$»^^A
+                                                  \I–2^^C° j.`ëóßÜÅ(
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Undefined control sequence.
+l.284 ...^^YÅ^^R^^E£Ş–ıbr>^^VMzÔUë^ñÕ•ğ¶İ.$»^^A\I
+                                                  –2^^C° j.`ëóßÜÅ(
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.285 ™^^R`ÆÜ^^Hû2Ø¶¯ú^^PWGWŸ^^W^^UÖB&
+                                       Ãöû¹('^^P'ã„ˆlØàéÊçË^^V&¦U8^^UªS´ŒÚE3...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.285 ...^^PWGWŸ^^W^^UÖB&Ãöû¹('^^P'ã„ˆlØàéÊçË^^V&
+                                                  ¦U8^^UªS´ŒÚE32š]¦ØÜÆÎ$J™úh...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no – in font cmr7!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no ë in font cmr10!
+Missing character: There is no ó in font cmr10!
+Missing character: There is no ß in font cmr10!
+Missing character: There is no Ü in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no Ü in font cmr10!
+Missing character: There is no û in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ¯ in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no Ÿ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no Ö in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ö in font cmr10!
+Missing character: There is no û in font cmr10!
+Missing character: There is no ¹ in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no „ in font cmr10!
+Missing character: There is no ˆ in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no Ê in font cmr10!
+Missing character: There is no ç in font cmr10!
+Missing character: There is no Ë in font cmr10!
+Missing character: There is no ¦ in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no Ú in font cmr10!
+Missing character: There is no š in font cmr10!
+Missing character: There is no ¦ in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no Ü in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no Î in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no ¾ in font cmr10!
+Missing character: There is no Ì in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+! Undefined control sequence.
+l.285 ...š]¦ØÜÆÎ$J™úh^^CbI"^^PÂi¾[ Ì\+^^^dsk{œÑ\š
+                                                  dF™Mğî^^X0ƒ­g^^B²x^^B^^[0,...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no ğ in font cmr10!
+Missing character: There is no î in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no ­ in font cmr10!
+Missing character: There is no ² in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no æ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no Š in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no Ò in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no • in font cmr10!
+Missing character: There is no ê in font cmr10!
+Missing character: There is no İ in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no Ÿ in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no » in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no Ğ in font cmr10!
+Missing character: There is no ˆ in font cmr10!
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 »ïĞˆ&
+           Qh^^Yèn– ‰D4,^^]ş‰!„_S¬^^^ıĞµ³Ã„â2ÚÇ¨ÿ^^EˆıÁ˜”§o|]û9â8#&¾Í!^^?...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+Missing character: There is no è in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no ‰ in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ş in font cmr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   
+l.286 »ïĞˆ&Qh^^Yèn– ‰D4,^^]ş
+                               ‰!„_S¬^^^ıĞµ³Ã„â2ÚÇ¨ÿ^^EˆıÁ˜”§o|]û9â8#&¾Í!^^?...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.286 ...]ş‰!„_S¬^^^ıĞµ³Ã„â2ÚÇ¨ÿ^^EˆıÁ˜”§o|]û9â8#
+                                                  &¾Í!^^?mòÆõ^^HM¯^^?h{×íl9...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Extra }, or forgotten $.
+\t@bb@x ->\if@cr \egroup \else \hss \egroup 
+                                            \global \setbox \tabsyet \hbox {...
+<template> \t@bb@x 
+                   \endtemplate 
+l.286 ...ş‰!„_S¬^^^ıĞµ³Ã„â2ÚÇ¨ÿ^^EˆıÁ˜”§o|]û9â8#&
+                                                  ¾Í!^^?mòÆõ^^HM¯^^?h{×íl9g...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \endtemplate 
+<template> \t@bb@x \endtemplate 
+                                
+l.286 ...ş‰!„_S¬^^^ıĞµ³Ã„â2ÚÇ¨ÿ^^EˆıÁ˜”§o|]û9â8#&
+                                                  ¾Í!^^?mòÆõ^^HM¯^^?h{×íl9g...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no ‰ in font cmr7!
+Missing character: There is no „ in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ı in font cmr10!
+Missing character: There is no Ğ in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no ³ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no „ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no Ú in font cmr10!
+Missing character: There is no Ç in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no ˆ in font cmr10!
+Missing character: There is no ı in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no ” in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no û in font cmr10!
+Missing character: There is no â in font cmr10!
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   \endtemplate 
+<template> \t@bb@x \endtemplate 
+                                
+l.286 ...ş‰!„_S¬^^^ıĞµ³Ã„â2ÚÇ¨ÿ^^EˆıÁ˜”§o|]û9â8#&
+                                                  ¾Í!^^?mòÆõ^^HM¯^^?h{×íl9g...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no ¾ in font cmr10!
+Missing character: There is no Í in font cmr10!
+! Text line contains an invalid character.
+l.286 ...S¬^^^ıĞµ³Ã„â2ÚÇ¨ÿ^^EˆıÁ˜”§o|]û9â8#&¾Í!^^?
+                                                  mòÆõ^^HM¯^^?h{×íl9g^^Rä^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ò in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no õ in font cmr10!
+Missing character: There is no ¯ in font cmr10!
+! Text line contains an invalid character.
+l.286 ...ÚÇ¨ÿ^^EˆıÁ˜”§o|]û9â8#&¾Í!^^?mòÆõ^^HM¯^^?
+                                                  h{×íl9g^^Rä^^AÊD‚}-+×–î>®...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no × in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no ä in font cmr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   ^^A
+l.286 ...]û9â8#&¾Í!^^?mòÆõ^^HM¯^^?h{×íl9g^^Rä^^A
+                                                  ÊD‚}-+×–î>®)òš^^\d–åhùæk|...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.286 ...8#&¾Í!^^?mòÆõ^^HM¯^^?h{×íl9g^^Rä^^AÊD‚}
+                                                  -+×–î>®)òš^^\d–åhùæk|Ó^^...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+<to be read again> 
+                   &
+l.286 ...Rä^^AÊD‚}-+×–î>®)òš^^\d–åhùæk|Ó^^Féâ3&
+                                                  îçIÁ#!ûí£ÏAL©I^^AILL’^^U...
+(That makes 100 errors; please try again.)
+!  ==> Fatal error occurred, no output PDF file produced!
