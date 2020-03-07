@@ -10,8 +10,10 @@ Reproducing [HuhScriven].
 
 # Usage
 
-   ./grid -r 400 -p 30 > out.vtk
+    Writes legacy vtk file with vx, vy, pressure, and a stream
+    function (psi).
 
+   ./grid -r 400 -p 30 > out.vtk
 
 # References
 
