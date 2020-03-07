@@ -2,8 +2,6 @@
 
 Reproducing [HuhScriven].
 
-<p align="center"><img src="img/lines.png"/></p>
-
 # Install
 
     make
@@ -15,6 +13,14 @@ function (psi) for viscosity ratio 400 and an interface inclination
 angle 30 degree.
 
     ./grid -r 400 -p 30 > out.vtk
+
+# Images
+
+R = 400, phi = 30
+<p align="center"><img src="img/lines.png"/></p>
+
+R = 1, phi = 30
+<p align="center"><img src="img/lines2.png"/></p>
 
 # References
 
