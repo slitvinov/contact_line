@@ -11,7 +11,8 @@ Reproducing [HuhScriven].
 # Usage
 
 Write a legacy vtk file with velocity (vx, vy), pressure, and a stream
-function (psi).
+function (psi) for viscisities ration 400 and inclanation angle 30
+degree of an interface between phases.
 
    ./grid -r 400 -p 30 > out.vtk
 
